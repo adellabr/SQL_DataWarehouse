@@ -1,2 +1,2 @@
 # SQL_DataWarehouse
-DWH an ETL process
+DWH and ETL process
